@@ -1,0 +1,9 @@
+Package: com.hesze.pebblestatus
+Name: pebblestatus
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Pebble in your statusbar.
+Maintainer: Julian Weiss <me@insanj.com>
+Author: Robert Hesse
+Section: Tweaks

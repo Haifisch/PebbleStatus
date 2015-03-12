@@ -1,0 +1,9 @@
+{
+	Filter = {
+		Mode = "Any";
+		Bundles = (
+			"com.apple.UIKit",
+			"com.apple.BluetoothManager",
+		);
+	};
+}

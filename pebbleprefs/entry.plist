@@ -1,0 +1,10 @@
+{
+    entry = {
+		bundle = pebbleprefs;
+		cell = PSLinkCell;
+		detail = PebblePreferencesListController;
+		icon = icon.png;
+		isController = 1;
+		label = "pebblestatus";
+    };
+}
